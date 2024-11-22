@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\compr\\Desktop\\2 D.A.M\\Asg Maria Jesus\\Tema2\\ArchivosMaui\\Calculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7CD60B-36B2-4A4C-80C7-993FB892E332}|Calculadora\\Calculadora.csproj|c:\\users\\compr\\desktop\\2 d.a.m\\asg maria jesus\\tema2\\archivosmaui\\calculadora\\calculadora\\vista\\calculadora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7CD60B-36B2-4A4C-80C7-993FB892E332}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\vista\\calculadora.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7CD60B-36B2-4A4C-80C7-993FB892E332}|Calculadora\\Calculadora.csproj|c:\\users\\compr\\desktop\\2 d.a.m\\asg maria jesus\\tema2\\archivosmaui\\calculadora\\calculadora\\vista\\calculadora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D7CD60B-36B2-4A4C-80C7-993FB892E332}|Calculadora\\Calculadora.csproj|solutionrelative:calculadora\\vista\\calculadora.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\compr\\Desktop\\2 D.A.M\\Asg Maria Jesus\\Tema2\\ArchivosMaui\\Calculadora\\Calculadora\\Vista\\Calculadora.xaml.cs",
+              "RelativeDocumentMoniker": "Calculadora\\Vista\\Calculadora.xaml.cs",
+              "ToolTip": "C:\\Users\\compr\\Desktop\\2 D.A.M\\Asg Maria Jesus\\Tema2\\ArchivosMaui\\Calculadora\\Calculadora\\Vista\\Calculadora.xaml.cs",
+              "RelativeToolTip": "Calculadora\\Vista\\Calculadora.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:43:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.xaml",
+              "DocumentMoniker": "C:\\Users\\compr\\Desktop\\2 D.A.M\\Asg Maria Jesus\\Tema2\\ArchivosMaui\\Calculadora\\Calculadora\\Vista\\Calculadora.xaml",
+              "RelativeDocumentMoniker": "Calculadora\\Vista\\Calculadora.xaml",
+              "ToolTip": "C:\\Users\\compr\\Desktop\\2 D.A.M\\Asg Maria Jesus\\Tema2\\ArchivosMaui\\Calculadora\\Calculadora\\Vista\\Calculadora.xaml",
+              "RelativeToolTip": "Calculadora\\Vista\\Calculadora.xaml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-22T07:43:43.74Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculadora.Vista.Calculadora"
+             Title="Calculadora">
+    <VerticalStackLayout Spacing="10" Margin="5">
+        <Label 
+            Text="Calculadora de IMC"
+            FontSize="30"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Image Source="https://masvidasinobesidad.com/wp-content/uploads/2018/02/IMC.png" />
+
+        <Label 
+            Text="Altura"
+            VerticalOptions="Start" 
+            HorizontalOptions="Start" />
+        <Entry x:Name="Ealtura"
+           Placeholder="Introduce tu altura(cm)"/>
+
+        <Label 
+            Text="Peso"
+            VerticalOptions="Start" 
+            HorizontalOptions="Start" />
+        <Entry x:Name="Epeso"
+           Placeholder="Introduce tu peso(kg)"/>
+        
+        <Label 
+            Text="IMC"
+            VerticalOptions="Start" 
+            HorizontalOptions="Start" />
+        <Entry x:Name="indice"
+            Placeholder="Tu IMC"/>
+
+        <Button Text="Calcula tu IMC"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Clicked="OnCalcularClicked" />
+
+        <Button Text="Salir de la aplicacion"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"
+                Clicked="OnSalirClicked" />
+
+    </VerticalStackLayout>
+</ContentPage>
